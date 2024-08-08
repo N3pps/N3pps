@@ -12,5 +12,4 @@ Skills:  python | pandas | matplotlib | seaborn | scikit-learn | scipy | SQL | E
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3pps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anastasiosmastorakis.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N3pps&show_icons=true)  
 
