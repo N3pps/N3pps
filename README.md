@@ -13,6 +13,6 @@ Skills:  python | pandas | matplotlib | seaborn | scikit-learn | scipy | SQL | E
 - 🔭 I’m currently working on a cluster analysis on a Travel Agency dataset 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3pps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.anastasiosmastorakis.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3pps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anastasiosmastorakis.com/)  
 
 
