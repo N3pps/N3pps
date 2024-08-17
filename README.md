@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anastasios
 #### I am a Data Analyst
-[![I am a Data Analyst]([https://media.licdn.com/dms/image/D4E16AQEnZ8vW7deJjA/profile-displaybackgroundimage-shrink_350_1400/0/1719007590807?e=1727308800&v=beta&t=RtmxKyBmmCbD2elysx_swoy0MLFhhpuHvAGR0ItzdB8)](https://media.licdn.com/dms/image/v2/D4E16AQFh5VJs-mrRVA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723897666964?e=1729123200&v=beta&t=ekmHwhcSW0GB3jLPqfPJvVPTeIZUXYmAGCsPUCTHzf8](https://media.licdn.com/dms/image/v2/D4E16AQFh5VJs-mrRVA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723897666964?e=1729123200&v=beta&t=ekmHwhcSW0GB3jLPqfPJvVPTeIZUXYmAGCsPUCTHzf8))
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner (3)](https://github.com/user-attachments/assets/8494d194-bdb0-4e5a-bae0-552c0faaeb66)
 
 I'm Anastasios, graduate from a data analysis program with a strong foundation in SQL, Tableau, and Python. I bring a unique blend of technical skills and hands-on business experience to the table. I worked in the food industry as an industrial clerk for four years, where I helped with the IFS certification process and secure new clients. This experience gave me deep insights into the challenges business owners face and the importance of data-driven decision-making. 
 I’m excited to bring my passion for data analysis and problem-solving to a dynamic team to tackle even bigger Problems.
