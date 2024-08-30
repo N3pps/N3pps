@@ -10,7 +10,7 @@ I’m excited to bring my passion for data analysis and problem-solving to a dyn
 
 Skills:  python | pandas | matplotlib | seaborn | scikit-learn | scipy | SQL | Excel | Tableau
 
-- 🔭 I’m currently working on a linear regression model for Stock Price Prediction
+- 🔭 I’m currently working on a logistic regression model for a Diabetes Risk Factor Analysis.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3pps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anastasiosmastorakis.com/)  
